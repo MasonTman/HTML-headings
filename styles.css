@@ -20,5 +20,6 @@ h2{
 h3{
 	background-color:maroon;
 	color:white;
+	pading:10px;
 	border-radius:20px;
 }
